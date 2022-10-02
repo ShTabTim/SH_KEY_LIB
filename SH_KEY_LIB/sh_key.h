@@ -1,5 +1,5 @@
-﻿#ifndef _SH_KEY_LIB_H_
-#define _SH_KEY_LIB_H_
+﻿#ifndef _SH_KEY_H_
+#define _SH_KEY_H_
 
 #include <cstdint>
 
@@ -25,4 +25,4 @@ namespace keys {
 #else
 #endif
 };
-#endif //_SH_KEY_LIB_H_
+#endif //_SH_KEY_H_
