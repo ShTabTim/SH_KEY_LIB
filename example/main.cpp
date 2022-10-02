@@ -1,5 +1,5 @@
 #include <iostream>
-#include <SH_KEY_LIB.h>
+#include <sh_key.h>
 
 int32_t main() {
 	int32_t new_x(0), new_y(0), old_x(0), old_y(0);
