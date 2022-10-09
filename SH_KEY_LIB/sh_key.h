@@ -3,7 +3,7 @@
 
 #include <cstdint>
 
-namespace keys {
+namespace shks {
 	typedef struct k_state {
 		bool pressed;
 		bool released;

@@ -1,6 +1,6 @@
 ﻿#include "sh_key.h"
 
-namespace keys {
+namespace shks {
 	int16_t m_keyOldState[256] = { 0 };
 	int16_t m_keyNewState[256] = { 0 };
 	k_state m_keys[256];
