@@ -1,4 +1,5 @@
 #include <iostream>
+#include <cinttypes>
 #include <sh_key.h>
 
 int32_t main() {
